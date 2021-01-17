@@ -1,0 +1,9 @@
+C:\Users\Windows10\source\repos\sayac\sayac\bin\Debug\sayac.exe.config
+C:\Users\Windows10\source\repos\sayac\sayac\bin\Debug\sayac.exe
+C:\Users\Windows10\source\repos\sayac\sayac\bin\Debug\sayac.pdb
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.Form1.resources
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.Properties.Resources.resources
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.exe
+C:\Users\Windows10\source\repos\sayac\sayac\obj\Debug\sayac.pdb
